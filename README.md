@@ -1,2 +1,0 @@
-# weak-lensing-research
-HelloWorld
